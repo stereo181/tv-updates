@@ -1,0 +1,7 @@
+{
+  "version": "1.2.1",
+  "apk": "tvtidy-1.2.1.apk",
+  "sha256": "1abfbca4d8bcc88aefe8443a01bdc0f01368bcdab54b6aafe019b6556701244f",
+  "min": "0",
+  "notes": ["Новая кнопка «Установить ott-play knopka» — ставит и обновляет плеер ott-play knopka"]
+}
