@@ -1,0 +1,7 @@
+{
+ "version": "1.1.69",
+ "code": 10157,
+ "apk": "https://raw.githubusercontent.com/stereo181/tv-updates/main/ottplay/ott-play-knopka-1.1.69.apk",
+ "sha256": "ac108b71ea06ff5c1654d2efe14c5f3daaecccd37142712c76113b6c92a505d0",
+ "notes": "Логотипы каналов снова отображаются в списке (сайт iptvx.one блокировал запросы приложения). Ввод адреса плейлиста: ОК на пульте сохраняет адрес."
+}
